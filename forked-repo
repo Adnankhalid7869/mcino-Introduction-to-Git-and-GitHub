@@ -1,0 +1,4 @@
+$ curl -s https://api.github.com/repos/Adnankhalid7869/mcino-Introduction-to-Git-and-GitHub | grep -n '"clone_url"'
+73:  "clone_url": "https://github.com/Adnankhalid7869/mcino-Introduction-to-Git-and-GitHub.git",
+184:    "clone_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git",
+295:    "clone_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git",
