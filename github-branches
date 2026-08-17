@@ -1,0 +1,4 @@
+$ git branch -vv
+* bug-fix-revert 3a597a8 [origin/bug-fix-revert: ahead 1] Add pull request evidence
+  bug-fix-typo   29bd0eb Fix footer year typo
+  main           dcdf129 [origin/main: ahead 2] Add merge branch evidence
